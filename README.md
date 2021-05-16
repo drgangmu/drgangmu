@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrGangMu
+- 👋 Hi, I’m @mug
 - 👀 I’m interested in Mathematics and Computational Healthcare
 - 🌱 I’m currently learning German
 - 💞️ I’m looking to collaborate on HPC
