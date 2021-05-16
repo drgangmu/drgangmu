@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dr Gang Mu
+- 👋 Hi, I’m @DrGangMu
 - 👀 I’m interested in Mathematics and Computational Healthcare
 - 🌱 I’m currently learning German
 - 💞️ I’m looking to collaborate on HPC
-- 📫 How to reach me lionmug@gmail.com
+- 📫 How to reach me drgangmu@gmail.com
 
 <!---
 drgangmu/drgangmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
